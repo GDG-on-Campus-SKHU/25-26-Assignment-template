@@ -1,4 +1,4 @@
-# 24-25 Assignment template
+# 25-26 Assignment template
 
 ## 사용하는 방법
 
